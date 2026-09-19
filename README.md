@@ -8,13 +8,15 @@
 
 💡 Passionate about Software Engineering, Backend Development, Problem Solving, and AI-powered applications.
 
-🌱 Currently focusing on:
 
-* Data Structures & Algorithms
-* Java Development
-* Spring Boot
-* System Design Fundamentals
-* Full Stack Development
+
+## 👾 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsanthramesh21/harsanthramesh21/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsanthramesh21/harsanthramesh21/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harsanthramesh21/harsanthramesh21/output/pacman-contribution-graph.svg">
+</picture>
 
 🎯 Goal:
 
